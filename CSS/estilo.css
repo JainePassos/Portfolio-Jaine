@@ -1,0 +1,44 @@
+body{
+    margin:0;
+    background: rgb(250, 210, 217);
+}
+
+body,html{
+    height: 100%;
+    overflow-x: hidden;
+}
+    header{
+        display:inline-flex;
+    }
+    
+    nav{
+        
+    }
+    nav a  { 
+        border: 1px solid purple;
+        text-align: right ;
+     }
+/*
+#logo{
+    padding: 15px;
+    float: left;
+    clear: both;
+}
+
+li{
+ float: right;
+}
+
+ li a{ 
+   padding: 15px;
+   border: 1px solid purple;
+   margin-top: 15px;
+
+}
+
+
+nav ul{
+ list-style-type: none;
+ fl
+ 
+}*/
